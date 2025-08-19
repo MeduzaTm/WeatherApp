@@ -26,6 +26,7 @@
 
 Работа с геолокацией: Фреймворк CoreLocation для получения координат пользователя с обработкой разрешений и ошибок.
 
+Скриншоты приложения
 
 
 <img width="330" height="717" alt="simulator_screenshot_F67B51BE-3993-40B0-9C44-390675B02FCF" src="https://github.com/user-attachments/assets/344e76cd-ff14-46f9-a7a1-460d64f5390b" />
