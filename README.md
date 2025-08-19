@@ -1,4 +1,4 @@
-<img width="1320" height="2868" alt="simulator_screenshot_F67B51BE-3993-40B0-9C44-390675B02FCF" src="https://github.com/user-attachments/assets/344e76cd-ff14-46f9-a7a1-460d64f5390b" /><img width="1320" height="2868" alt="simulator_screenshot_F1D5FE1F-F787-48B2-B82B-5858D34E1318" src="https://github.com/user-attachments/assets/5b4bf282-998f-4075-a943-e89aa1d6a168" />Приложение прогноз погоды
+Приложение прогноз погоды
 
 Ключевые функции:
 
@@ -26,7 +26,8 @@
 
 Работа с геолокацией: Фреймворк CoreLocation для получения координат пользователя с обработкой разрешений и ошибок.
 
-![simulator_screenshot_B12F8464-B04D-4470-9DAB-7E71213EA24B](https://github.com/user-attachments/assets/6bd0649a-faf9-4e37-97c2-351aef016ceb)
+<img width="1320" height="2868" alt="simulator_screenshot_F67B51BE-3993-40B0-9C44-390675B02FCF" src="https://github.com/user-attachments/assets/344e76cd-ff14-46f9-a7a1-460d64f5390b" />
+<img width="1320" height="2868" alt="simulator_screenshot_F1D5FE1F-F787-48B2-B82B-5858D34E1318" src="https://github.com/user-attachments/assets/5b4bf282-998f-4075-a943-e89aa1d6a168" />
 <img width="1320" height="2868" alt="simulator_screenshot_C0ED003B-FFA0-4E37-BEA7-4BCDB13A974B" src="https://github.com/user-attachments/assets/a735cf04-d384-4b4f-888c-50104f26b5a5" />
 <img width="1320" height="2868" alt="simulator_screenshot_D8291D60-956E-4693-AD64-1332E71BA473" src="https://github.com/user-attachments/assets/6fffebc2-9caa-449c-af1f-64f070a5a068" />
 
